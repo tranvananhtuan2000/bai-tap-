@@ -1,5 +1,0 @@
-giá trị = đầu vào ( "Nhập vào giá trị:" )
-l = giá trị . chia ( "," )
-t = tuple ( l )
-in ( l )
-in ( t )
